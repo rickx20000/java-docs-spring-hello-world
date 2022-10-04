@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Congratulations, Rick! This is to confirm the success of DevOps CICD!";
+		return "Wonderful! DMET is on going!";
 	}
 }
