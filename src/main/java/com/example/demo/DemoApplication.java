@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello Royal College, hello Rick! You have successfully deployed the Java web application, congratulations!";
+		return "Hello Rick! This is to confirm the success of DevOps CICD!";
 	}
 }
