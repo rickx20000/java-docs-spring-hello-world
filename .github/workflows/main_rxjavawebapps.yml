@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'RXJavaWebApps'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A2167B2C88B486299E80ECF45C83279 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73C6650DE48040A0943A7E1D52D27991 }}
           package: '*.jar'
